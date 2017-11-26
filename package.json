@@ -1,0 +1,46 @@
+{
+  "private": true,
+  "name": "machine-learning-building-or-road",
+  "version": "0.1.0",
+  "description": "Projects to learn Machine learning using GeoJSON Vector Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisCarriere/machine-learning-building-or-road.git"
+  },
+  "keywords": [
+    "ml",
+    "machine",
+    "learning",
+    "geojson",
+    "vector",
+    "data"
+  ],
+  "author": "Denis Carriere <@DenisCarriere>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DenisCarriere/machine-learning-building-or-road/issues"
+  },
+  "homepage": "https://github.com/DenisCarriere/machine-learning-building-or-road#readme",
+  "dependencies": {
+    "@turf/area": "^5.0.4",
+    "@turf/bbox": "*",
+    "@turf/bbox-polygon": "*",
+    "@turf/helpers": "*",
+    "@turf/invariant": "*",
+    "@turf/length": "^5.0.4",
+    "@turf/meta": "*",
+    "decision-tree": "*",
+    "jsonlines": "*",
+    "load-json-file": "*",
+    "meow": "*",
+    "osmlinter": "*",
+    "write-json-file": "*"
+  },
+  "devDependencies": {
+    "standard": "*"
+  }
+}

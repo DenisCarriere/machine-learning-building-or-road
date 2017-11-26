@@ -5,6 +5,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+data/buildings.json
+data/highways.json
+
 # Runtime data
 pids
 *.pid
