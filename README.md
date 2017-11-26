@@ -2,11 +2,13 @@
 
 First project to learn Machine learning with GeoJSON Vector Data.
 
-## 1. First problem to solve
+## Problems to solve:
+
+### 1.0 Building or Road?
 
 Given a single LineString/MultiLineString/Polygon/MultiPolygon is this Feature a Building or a Road?
 
-### 2. How to solve
+### 1.1 How to solve
 
 - [ ] Extract data from OSM QA Tiles of Roads & Buildings
 - [ ] Deconstruct each Feature into geometry attributes:
